@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    margin-right: inherit;
+    padding: 12px;
+}
+.hero{
+    padding: 102px 0;
+    background: url(./3.jpg);
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: color;
+}
+.bannar{
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    color: rgb(15, 16, 18);
+}
+.bannar p{
+    font-size: 18px;
+    color: rgb(17, 19, 20);
+    font-weight: 500;
+}
+ .baaaa p{
+    font-size: 18px;
+    color: rgb(17, 19, 20);
+    font-weight: 500;
+}
+.bannar a{
+    text-decoration: none;
+    border: 1px solid rgb(65, 55, 55);
+    padding: 5px;
+    border-radius: 4px;
+    color: black;
+    
+}
+.ca1{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    justify-content: center;
+}
+.ca2{
+    max-width: 37%;
+    flex-basis: 37%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    
+    padding: 40px;
+    padding-right: 150px;
+}
+h2{
+    font-size: 36px;
+    margin: 0;
+}
+p{
+    font-size: initial;
+    margin: 0;
+    line-height: 25px;
+}
+.ca3{
+    max-width: 40%;
+    flex-basis: 40%;
+    border-radius: 60%;
+    padding-top: 62px;
+}
+img{
+    max-width: 100%;
+    display: block;
+    border-radius: 10px;
+    height: 97%;
+    width: 100%;
+    object-fit: cover
+    
+}
+.ca4{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    justify-content: center;
+}
+.ca5{
+    max-width: 40%;
+    flex-basis: 40%;
+    border-radius: 60%;
+    padding-top: 62px;
+}
+
+.ca6{
+    max-width: 37%;
+    flex-basis: 37%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    
+    padding: 40px;
+    padding-right: 150px;
+    padding-right: 0;
+}
+.heron{
+    padding: 102px 0;
+    background: url(./89.jpg);
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: color;
+}
+.baaaa{
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: center;
+}
+.baaaa a{
+    text-decoration: none;
+    border: 1px solid rgb(34, 32, 32);
+    color: black;
+    border-radius: 4px;
+    padding: 5px;
+}
+.baaaa h2{
+    font-size: 35px;
+
+}
+.rafiul{
+    text-align: center;
+    margin-top: 20px;
+    height: 100px;
+    background-color: rgb(234, 229, 229);
+}
